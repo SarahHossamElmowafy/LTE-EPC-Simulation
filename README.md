@@ -18,3 +18,6 @@ and HSS that connect between the user entity and the PDN or the host.
 Here the network is composed of two parts, the LTE part that contains a number of
 user entities that maybe a car, laptop or even a phone, connected to one of the two 
 eNBs, and the other part is the EPC part that connect the UEs to the host.
+
+## Applications
+NetAnim for Animation Stimulation
